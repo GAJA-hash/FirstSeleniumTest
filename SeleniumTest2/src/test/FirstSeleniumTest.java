@@ -14,6 +14,11 @@ public class FirstSeleniumTest {
 		setBrowserConfig();
 		runTest();
 	}	
+	/**
+	 * Made code modular by using if statements 
+	 * Author : Gajapathi
+	 * Date" 22.8.2021 Sunday
+	 */
 	//setBrowser
 	//setBrowserConfig
 	//runTest
